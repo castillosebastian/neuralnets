@@ -3,3 +3,4 @@ numpy
 polars
 black
 torch
+ipykernel
