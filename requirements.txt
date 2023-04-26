@@ -5,3 +5,4 @@ black
 torch
 ipykernel
 ipywidgets
+pathlib
