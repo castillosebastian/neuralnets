@@ -4,3 +4,4 @@ polars
 black
 torch
 ipykernel
+ipywidgets
