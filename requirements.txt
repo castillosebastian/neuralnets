@@ -6,3 +6,4 @@ torch
 ipykernel
 ipywidgets
 pathlib
+seaborn
