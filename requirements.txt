@@ -7,3 +7,5 @@ ipykernel
 ipywidgets
 pathlib
 seaborn
+fastbook
+dill
