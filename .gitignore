@@ -162,3 +162,4 @@ cython_debug/
 notebooks/data
 notebooks/model_weights.pth
 course_bib
+data/MNIST
