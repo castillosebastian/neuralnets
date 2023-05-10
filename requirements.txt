@@ -10,3 +10,5 @@ seaborn
 fastbook
 dill
 optuna
+torchx
+ax-platform
