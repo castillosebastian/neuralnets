@@ -9,3 +9,4 @@ pathlib
 seaborn
 fastbook
 dill
+optuna
