@@ -167,3 +167,4 @@ exp
 archive
 FashionMNIST
 MNIST
+data/mnist_data.npy
