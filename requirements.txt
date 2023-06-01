@@ -13,3 +13,5 @@ optuna
 torchx
 ax-platform
 mnist
+sompy
+scikit-image
