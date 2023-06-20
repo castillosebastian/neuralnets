@@ -15,3 +15,5 @@ ax-platform
 mnist
 sompy
 scikit-image
+deap
+pandas-datareader
